@@ -10,4 +10,4 @@ The simulation is simple and based on gravity and inelatic collisions between 3D
 ![](https://i.imgur.com/2wZSsx3.gif)
 <img src="https://i.imgur.com/2wZSsx3.gif"/>
 
-!(image)[https://i.imgur.com/2wZSsx3.gif]
+![https://i.imgur.com/2wZSsx3.gif](https://i.imgur.com/2wZSsx3.gif)
