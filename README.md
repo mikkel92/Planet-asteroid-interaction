@@ -7,4 +7,6 @@ An asteroid or comet made from N * 0.1 balls each with mass M hits the moon.
 Code creates an animation, which can be displayed. Physical and Simulation parameters can be changed, to simulate other celestial objects.
 The simulation is simple and based on gravity and inelatic collisions between 3D spheres.
 
+link to updated animation : https://imgur.com/gallery/giRRdKy
 ![](https://i.imgur.com/CYIuiEZ.gif)
+
