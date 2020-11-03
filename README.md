@@ -8,4 +8,6 @@ Code creates an animation, which can be displayed. Physical and Simulation param
 The simulation is simple and based on gravity and inelatic collisions between 3D spheres.
 
 ![](https://i.imgur.com/2wZSsx3.gif)
-[![Watch the video](https://imgur.com/gallery/giRRdKy)](https://youtu.be/vt5fpE0bzSY)
+<img src="https://i.imgur.com/2wZSsx3.gif"/>
+
+!(image)[https://i.imgur.com/2wZSsx3.gif]
